@@ -1,0 +1,6 @@
+{
+  "name": "SyncSpace",
+  "description": "Zentrale Koordinationsplattform für teamübergreifende Integrationen mit rollenspezifischen Sichten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
